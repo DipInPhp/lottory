@@ -1,2 +1,0 @@
-# lottory
-soccer lottory
